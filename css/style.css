@@ -1,3 +1,13 @@
 body{
     background-color: black;
 }
+#hero{
+   background-image: url(../images/pexels-donaldtong94-139366.jpg); 
+   background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.d-flex {
+height: 50vh;
+}
